@@ -1,0 +1,40 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5%;
+}
+
+.Logo {
+  margin: 0;
+  font-family: 'Niramit', sans-serif;
+  font-size: 40px;
+  color: #434a52;
+}
+
+.Logo span {
+  color: #db512e
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+.Item {
+  margin: 0 5px;
+  padding: 3px 20px;
+  color: #9a9a97;
+  cursor: pointer;
+}
+
+.Active {
+  color: white;
+  background-color: #da512c;
+}
+
+hr {
+  margin: 50px 5%;
+  border-color: rgba(223, 223, 223, .5);
+}
