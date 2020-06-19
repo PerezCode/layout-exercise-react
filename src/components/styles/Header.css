@@ -1,7 +1,12 @@
 .Header {
+  padding: 0 5%;
+}
+
+.LogoAndNavbar {
   display: flex;
   justify-content: space-between;
-  padding: 0 5%;
+  flex-wrap: wrap;
+  /* padding: 0 5%; */
 }
 
 .Logo {
@@ -19,6 +24,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
   list-style: none;
 }
 
@@ -34,7 +40,7 @@
   background-color: #da512c;
 }
 
-hr {
-  margin: 50px 5%;
+.DividingLine {
+  margin: 35px 0;
   border-color: rgba(223, 223, 223, .5);
 }
