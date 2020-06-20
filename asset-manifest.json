@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/layout-exercise-react/static/css/main.8b1729e8.chunk.css",
+    "main.js": "/layout-exercise-react/static/js/main.94e4fbd6.chunk.js",
+    "main.js.map": "/layout-exercise-react/static/js/main.94e4fbd6.chunk.js.map",
+    "runtime-main.js": "/layout-exercise-react/static/js/runtime-main.f97bdf1f.js",
+    "runtime-main.js.map": "/layout-exercise-react/static/js/runtime-main.f97bdf1f.js.map",
+    "static/js/2.2da03d0a.chunk.js": "/layout-exercise-react/static/js/2.2da03d0a.chunk.js",
+    "static/js/2.2da03d0a.chunk.js.map": "/layout-exercise-react/static/js/2.2da03d0a.chunk.js.map",
+    "index.html": "/layout-exercise-react/index.html",
+    "precache-manifest.cdd970a67c0d498b603d9f4ce21c7a48.js": "/layout-exercise-react/precache-manifest.cdd970a67c0d498b603d9f4ce21c7a48.js",
+    "service-worker.js": "/layout-exercise-react/service-worker.js",
+    "static/css/main.8b1729e8.chunk.css.map": "/layout-exercise-react/static/css/main.8b1729e8.chunk.css.map",
+    "static/js/2.2da03d0a.chunk.js.LICENSE.txt": "/layout-exercise-react/static/js/2.2da03d0a.chunk.js.LICENSE.txt",
+    "static/media/analisis.jpg": "/layout-exercise-react/static/media/analisis.00df629e.jpg",
+    "static/media/apreton-de-manos.jpg": "/layout-exercise-react/static/media/apreton-de-manos.1a98e681.jpg",
+    "static/media/investigacion.jpg": "/layout-exercise-react/static/media/investigacion.70401acf.jpg",
+    "static/media/planta-en-manos.jpg": "/layout-exercise-react/static/media/planta-en-manos.323c8a08.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f97bdf1f.js",
+    "static/js/2.2da03d0a.chunk.js",
+    "static/css/main.8b1729e8.chunk.css",
+    "static/js/main.94e4fbd6.chunk.js"
+  ]
+}
